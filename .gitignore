@@ -4,3 +4,4 @@
 output/
 processed_data/
 data/
+notebooks/catboost_info/
