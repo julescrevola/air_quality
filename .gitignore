@@ -1,2 +1,6 @@
 *.csv
 *.DS_Store
+*.png
+output/
+processed_data/
+data/
