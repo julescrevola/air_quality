@@ -1,7 +1,8 @@
-output
-processed_data
-data
-notebooks/catboost_info
+assets/graphs/
+data/
+notebooks/catboost_info/
+output/
+processed_data/
 *.csv
 *.DS_Store
 *.png
